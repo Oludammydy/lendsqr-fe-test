@@ -17,8 +17,11 @@ Code base is written with typescript
 ## Specifications
 
 User pages should pull data from a mock api with 500 records
+<br>
 It should use a local storage or indexedDB to store and retrieve user details on the user details page.
+<br>
 The page must be mobile responsive
+<br>
 The pages are created in the page file "src" component of this application.
 
 ### Creating Components
